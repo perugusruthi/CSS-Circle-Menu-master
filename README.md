@@ -1,4 +1,4 @@
-# CSS-Circle-Menu-master
+# Circle-Menu-master
 
 A circle menu with fly out animation using HTML,CSS and JQuery
 
